@@ -1,4 +1,4 @@
-import ProjectsSidebar from "./components/Projectssidebar.jsx";
+import ProjectsSidebar from "./components/ProjectsSidebar.jsx";
 import NewProject from "./components/NewProject.jsx";
 import NoProjectSelected from "./components/NoProjectSelected.jsx";
 import { useState } from "react";
